@@ -27,6 +27,6 @@ Hello! Thank you for considering contributing to PowerPoint Generator. Your help
 3. **Clone it**: Clone the forked repository to your local machine.
 
 ```
-git clone https://github.com/otahina/PowerPoint-Generator-Python-Project.git
+git clone https://github.com/Srikanth284/Ai-Presentia.git
 ```
 
