@@ -1,11 +1,4 @@
-![banner](https://github.com/SRIKANTH284//assets/108225969/bfe8f796-3ffa-4c59-92f5-7624f6f9884f)
 
-[![made-with-python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/otahina)
-
-<img src="https://img.shields.io/github/stars/otahina/PowerPoint-Generator-Python-Project.svg"> <img src="https://img.shields.io/github/forks/otahina/PowerPoint-Generator-Python-Project.svg">
 
 ## PowerPoint Generator: Your Gateway to Effortless Presentations 🚀
 
@@ -13,9 +6,7 @@ Dive into the ease of presentation creation with PowerPoint Generator, a smart w
 PowerPoint presentations! 🌟 
 This project is ripe for growth and eager for your contributions. Let's enhance its capability together! 😊
 
-## Demo Highlights 🎬
 
-https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/82d98c7a-0244-4fed-8f6b-f6c994fd69e3
 
 ## Table of Contents 📋
 
